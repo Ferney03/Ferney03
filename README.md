@@ -53,15 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ferneyrodrigueztf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferneyrodrigueztf&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Áreas de interés
 
 `Arquitectura de Software` · `Desarrollo Web Empresarial` · `APIs Backend` · `Bases de Datos Relacionales` · `Automatización` · `DevOps` · `Infraestructura Linux` · `Cloud & Virtualización`
@@ -72,13 +63,3 @@
 
 - 💼 GitHub: [@ferneyrodrigueztf](https://github.com/ferneyrodrigueztf)
 - 📍 Colombia
-
----
-
-<h3 align="center">⚡ Filosofía</h3>
-
-<p align="center">
-  <i>"La tecnología tiene más valor cuando resuelve problemas reales de forma simple, escalable y mantenible."</i>
-</p>
-
-<p align="center">🚀 Siempre aprendiendo y construyendo soluciones que generen impacto.</p>
