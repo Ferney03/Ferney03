@@ -27,6 +27,15 @@
 
 ---
 
+## 💼 Actualmente
+
+- Desarrollando aplicaciones empresariales con Laravel y React.
+- Construyendo APIs REST e integraciones.
+- Diseñando consultas y soluciones sobre MySQL y SQL Server.
+- Aprendiendo continuamente sobre arquitectura de software e infraestructura.
+
+---
+
 ## 🛠️ Stack
 
 ### Backend
@@ -62,4 +71,5 @@
 ## 📫 Contacto
 
 - 💼 GitHub: [@ferneyrodrigueztf](https://github.com/ferneyrodrigueztf)
-- 📍 Colombia
+- 📌 LinkedIn: linkedin.com/in/ferneyalexis000
+- 📧 Email: ferneyalarcon074@gmail.com
